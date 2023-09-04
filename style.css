@@ -1,0 +1,21 @@
+ul li {
+    color: green;
+    display:inline;
+    padding: 1% 18%;
+    font-family: "Liberation Sans";
+    transition: 100ms;
+    }
+    ul li:hover {
+    font-size: 19px;
+    text-decoration: underline;
+    color: #B7FFA2;
+    }
+    ul {
+      text-align: center;
+    }
+    nav {
+      background-color: white;
+      box-shadow: 10px grey;
+      height: 2%;
+      display: block;
+    }
